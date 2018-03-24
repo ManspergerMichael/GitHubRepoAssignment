@@ -1,0 +1,1 @@
+This is an assignment to teach how to push a local repository to a remote repository on the GitHub public storage server.
